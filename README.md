@@ -1,2 +1,2 @@
-# Tutora.IA-Back-End
-Sistema Back End do projeto DemoDay Tutora.IA desenvolvido com java, spring boot e spring security 
+# Tutora.IA-Back
+Back-end desenvolvido em JAVA com spring framework
